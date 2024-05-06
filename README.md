@@ -1,2 +1,2 @@
 # Python
-Python program
+my first python program
